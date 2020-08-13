@@ -1,0 +1,23 @@
+li {
+  cursor: pointer;
+  color: blue;
+}
+
+.hidden {
+  display: none;
+}
+
+
+li:hover {
+  color: rgb(226, 43, 43);
+}
+
+li p {
+  cursor: pointer;
+  color: black
+}
+
+li p:hover {
+  text-decoration: none;
+  color: black;
+}
